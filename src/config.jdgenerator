@@ -1,0 +1,41 @@
+==== CONFIGS ====		
+{
+    "base_path": "c:\\1_DEV_2024\\320\\EMFforBUD\\320_E1_Ornithologie_P\\src",
+    "out": "c:\\1_DEV_2024\\320\\EMFforBUD\\320_E1_Ornithologie_P\\src\\javadoc",
+    "javadoc_executable": "C:\\Program Files\\OpenLogic\\jdk-17.0.12.7-hotspot\\bin\\javadoc.exe",
+    "exclude": [],
+    "raw_params": " -encoding UTF-8 -charset UTF-8 "
+}
+
+==== COMMAND ====
+"C:\Program Files\OpenLogic\jdk-17.0.12.7-hotspot\bin\javadoc.exe" 
+	-sourcepath "c:\1_DEV_2024\320\EMFforBUD\320_E1_Ornithologie_P\src" 
+	-d "c:\1_DEV_2024\320\EMFforBUD\320_E1_Ornithologie_P\src\javadoc" 
+	 -encoding UTF-8 -charset UTF-8 
+	"c:\1_DEV_2024\320\EMFforBUD\320_E1_Ornithologie_P\src\app\Application.java"
+	"c:\1_DEV_2024\320\EMFforBUD\320_E1_Ornithologie_P\src\ctrl\Controller.java"
+	"c:\1_DEV_2024\320\EMFforBUD\320_E1_Ornithologie_P\src\ctrl\IControllerForView.java"
+	"c:\1_DEV_2024\320\EMFforBUD\320_E1_Ornithologie_P\src\models\Caracteristiques.java"
+	"c:\1_DEV_2024\320\EMFforBUD\320_E1_Ornithologie_P\src\models\CriteresIdentification.java"
+	"c:\1_DEV_2024\320\EMFforBUD\320_E1_Ornithologie_P\src\models\Espece.java"
+	"c:\1_DEV_2024\320\EMFforBUD\320_E1_Ornithologie_P\src\models\EspeceDetail.java"
+	"c:\1_DEV_2024\320\EMFforBUD\320_E1_Ornithologie_P\src\models\IEspeceInfo.java"
+	"c:\1_DEV_2024\320\EMFforBUD\320_E1_Ornithologie_P\src\models\ImageSource.java"
+	"c:\1_DEV_2024\320\EMFforBUD\320_E1_Ornithologie_P\src\models\Observation.java"
+	"c:\1_DEV_2024\320\EMFforBUD\320_E1_Ornithologie_P\src\models\ObservationBase.java"
+	"c:\1_DEV_2024\320\EMFforBUD\320_E1_Ornithologie_P\src\models\Population.java"
+	"c:\1_DEV_2024\320\EMFforBUD\320_E1_Ornithologie_P\src\models\StatutDeMenace.java"
+	"c:\1_DEV_2024\320\EMFforBUD\320_E1_Ornithologie_P\src\services\IServiceChargementEspeces.java"
+	"c:\1_DEV_2024\320\EMFforBUD\320_E1_Ornithologie_P\src\services\IServiceFormatageDate.java"
+	"c:\1_DEV_2024\320\EMFforBUD\320_E1_Ornithologie_P\src\services\IServiceIndexationEspeces.java"
+	"c:\1_DEV_2024\320\EMFforBUD\320_E1_Ornithologie_P\src\services\IServiceIndexationObservations.java"
+	"c:\1_DEV_2024\320\EMFforBUD\320_E1_Ornithologie_P\src\services\IServiceJournalObservations.java"
+	"c:\1_DEV_2024\320\EMFforBUD\320_E1_Ornithologie_P\src\services\ServiceChargementEspeces.java"
+	"c:\1_DEV_2024\320\EMFforBUD\320_E1_Ornithologie_P\src\services\ServiceFormatageDate.java"
+	"c:\1_DEV_2024\320\EMFforBUD\320_E1_Ornithologie_P\src\services\ServiceIndexationEspeces.java"
+	"c:\1_DEV_2024\320\EMFforBUD\320_E1_Ornithologie_P\src\services\ServiceIndexationObservations.java"
+	"c:\1_DEV_2024\320\EMFforBUD\320_E1_Ornithologie_P\src\services\ServiceJournalObservations.java"
+	"c:\1_DEV_2024\320\EMFforBUD\320_E1_Ornithologie_P\src\views\IViewForController.java"
+	"c:\1_DEV_2024\320\EMFforBUD\320_E1_Ornithologie_P\src\views\View.java"
+
+
