@@ -41,33 +41,37 @@ Voici ce que vous devez obtenir:
 
 ### Pour la partie du haut espèces
 
-- Lors d'un tri par ponte et durée de séjour au nid
+#### Lors d'un tri par ponte et durée de séjour au nid
 
 <img src="doc/triParPonteEtDureeAuNid.png">
 
 - Pour les autre tris, vous effectuez un contrôle vous-même.
 
 
-## Pour la partie du bas observations
+### Pour la partie du bas observations
 
-- Lorsque aucun filtre n'est sélectionné 
+#### Lorsque aucun filtre n'est sélectionné 
 
 <img src="doc/aucunFiltreObservations.png" width=380>
 
-- Lorsque que le filtre par Nom est sélectionné sur Autour des palombes
+#### Lorsque que le filtre par Nom est sélectionné sur Autour des palombes
 
 <img src="doc/filtreAutourObservations.png" width=380>
 
 
-- Lors d'un filtre au 2 septembre 2024 pour la Bécassine des marais 
+#### Lors d'un filtre au 2 septembre 2024 pour la Bécassine des marais 
 
 <img src="doc/filtreBecassine09022024.png">
 
-- Lors d'un filtre au 15 novembre 2025 pour l'Autour des palombes
+#### Lors d'un filtre au 15 novembre 2025 pour l'Autour des palombes (sans exceptions!)
 
 <img src="doc/filtreSansRésultat.png">
 
-- Lorsque vous ajoutez une observation, elle doit apparaître en premier dans la liste ci-dessus.
+#### Lorsque vous ajoutez une observation, elle doit apparaître en premier dans la liste ci-dessous.
 
+<img src="doc/ajoutObs.png">
 
- 
+#### La date doit être conforme au format ci-dessous
+
+<img src="doc/formatDate.png">
+
